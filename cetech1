@@ -1,0 +1,13 @@
+<html lang="es" style="height: auto;"><head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="Yl82IcCRUXFgSXExwke2U3ah4K0iatHAV9xVFnBb">
+
+    <title>CETECH - Sistema de Información Escolar</title>
+    <link rel="stylesheet" href="https://cetech.sjuanrio.tecnm.mx/css/style_login.css">
+    <link rel="stylesheet" href="https://cetech.sjuanrio.tecnm.mx/css/app.css">
+    <link rel="stylesheet" 
